@@ -1,0 +1,11 @@
+C:\Users\horar\source\repos\indexOfLetters\mostFrequentNumber\bin\Debug\netcoreapp2.0\mostFrequentNumber.deps.json
+C:\Users\horar\source\repos\indexOfLetters\mostFrequentNumber\bin\Debug\netcoreapp2.0\mostFrequentNumber.runtimeconfig.json
+C:\Users\horar\source\repos\indexOfLetters\mostFrequentNumber\bin\Debug\netcoreapp2.0\mostFrequentNumber.runtimeconfig.dev.json
+C:\Users\horar\source\repos\indexOfLetters\mostFrequentNumber\bin\Debug\netcoreapp2.0\mostFrequentNumber.dll
+C:\Users\horar\source\repos\indexOfLetters\mostFrequentNumber\bin\Debug\netcoreapp2.0\mostFrequentNumber.pdb
+C:\Users\horar\source\repos\indexOfLetters\mostFrequentNumber\obj\Debug\netcoreapp2.0\mostFrequentNumber.csprojResolveAssemblyReference.cache
+C:\Users\horar\source\repos\indexOfLetters\mostFrequentNumber\obj\Debug\netcoreapp2.0\mostFrequentNumber.csproj.CoreCompileInputs.cache
+C:\Users\horar\source\repos\indexOfLetters\mostFrequentNumber\obj\Debug\netcoreapp2.0\mostFrequentNumber.AssemblyInfoInputs.cache
+C:\Users\horar\source\repos\indexOfLetters\mostFrequentNumber\obj\Debug\netcoreapp2.0\mostFrequentNumber.AssemblyInfo.cs
+C:\Users\horar\source\repos\indexOfLetters\mostFrequentNumber\obj\Debug\netcoreapp2.0\mostFrequentNumber.dll
+C:\Users\horar\source\repos\indexOfLetters\mostFrequentNumber\obj\Debug\netcoreapp2.0\mostFrequentNumber.pdb

@@ -1,0 +1,11 @@
+C:\Users\horar\source\repos\examPreparation\pokemonEvolution\bin\Debug\netcoreapp2.0\pokemonEvolution.deps.json
+C:\Users\horar\source\repos\examPreparation\pokemonEvolution\bin\Debug\netcoreapp2.0\pokemonEvolution.runtimeconfig.json
+C:\Users\horar\source\repos\examPreparation\pokemonEvolution\bin\Debug\netcoreapp2.0\pokemonEvolution.runtimeconfig.dev.json
+C:\Users\horar\source\repos\examPreparation\pokemonEvolution\bin\Debug\netcoreapp2.0\pokemonEvolution.dll
+C:\Users\horar\source\repos\examPreparation\pokemonEvolution\bin\Debug\netcoreapp2.0\pokemonEvolution.pdb
+C:\Users\horar\source\repos\examPreparation\pokemonEvolution\obj\Debug\netcoreapp2.0\pokemonEvolution.csprojResolveAssemblyReference.cache
+C:\Users\horar\source\repos\examPreparation\pokemonEvolution\obj\Debug\netcoreapp2.0\pokemonEvolution.csproj.CoreCompileInputs.cache
+C:\Users\horar\source\repos\examPreparation\pokemonEvolution\obj\Debug\netcoreapp2.0\pokemonEvolution.AssemblyInfoInputs.cache
+C:\Users\horar\source\repos\examPreparation\pokemonEvolution\obj\Debug\netcoreapp2.0\pokemonEvolution.AssemblyInfo.cs
+C:\Users\horar\source\repos\examPreparation\pokemonEvolution\obj\Debug\netcoreapp2.0\pokemonEvolution.dll
+C:\Users\horar\source\repos\examPreparation\pokemonEvolution\obj\Debug\netcoreapp2.0\pokemonEvolution.pdb

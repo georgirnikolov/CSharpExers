@@ -1,0 +1,11 @@
+C:\Users\horar\source\repos\examPreparation\pokeMon\bin\Debug\netcoreapp2.0\pokeMon.deps.json
+C:\Users\horar\source\repos\examPreparation\pokeMon\bin\Debug\netcoreapp2.0\pokeMon.runtimeconfig.json
+C:\Users\horar\source\repos\examPreparation\pokeMon\bin\Debug\netcoreapp2.0\pokeMon.runtimeconfig.dev.json
+C:\Users\horar\source\repos\examPreparation\pokeMon\bin\Debug\netcoreapp2.0\pokeMon.dll
+C:\Users\horar\source\repos\examPreparation\pokeMon\bin\Debug\netcoreapp2.0\pokeMon.pdb
+C:\Users\horar\source\repos\examPreparation\pokeMon\obj\Debug\netcoreapp2.0\pokeMon.csprojResolveAssemblyReference.cache
+C:\Users\horar\source\repos\examPreparation\pokeMon\obj\Debug\netcoreapp2.0\pokeMon.csproj.CoreCompileInputs.cache
+C:\Users\horar\source\repos\examPreparation\pokeMon\obj\Debug\netcoreapp2.0\pokeMon.AssemblyInfoInputs.cache
+C:\Users\horar\source\repos\examPreparation\pokeMon\obj\Debug\netcoreapp2.0\pokeMon.AssemblyInfo.cs
+C:\Users\horar\source\repos\examPreparation\pokeMon\obj\Debug\netcoreapp2.0\pokeMon.dll
+C:\Users\horar\source\repos\examPreparation\pokeMon\obj\Debug\netcoreapp2.0\pokeMon.pdb

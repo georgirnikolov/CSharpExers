@@ -1,0 +1,11 @@
+C:\Users\horar\source\repos\indexOfLetters\maxSequenceOfEqualElements\bin\Debug\netcoreapp2.0\maxSequenceOfEqualElements.deps.json
+C:\Users\horar\source\repos\indexOfLetters\maxSequenceOfEqualElements\bin\Debug\netcoreapp2.0\maxSequenceOfEqualElements.runtimeconfig.json
+C:\Users\horar\source\repos\indexOfLetters\maxSequenceOfEqualElements\bin\Debug\netcoreapp2.0\maxSequenceOfEqualElements.runtimeconfig.dev.json
+C:\Users\horar\source\repos\indexOfLetters\maxSequenceOfEqualElements\bin\Debug\netcoreapp2.0\maxSequenceOfEqualElements.dll
+C:\Users\horar\source\repos\indexOfLetters\maxSequenceOfEqualElements\bin\Debug\netcoreapp2.0\maxSequenceOfEqualElements.pdb
+C:\Users\horar\source\repos\indexOfLetters\maxSequenceOfEqualElements\obj\Debug\netcoreapp2.0\maxSequenceOfEqualElements.csprojResolveAssemblyReference.cache
+C:\Users\horar\source\repos\indexOfLetters\maxSequenceOfEqualElements\obj\Debug\netcoreapp2.0\maxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+C:\Users\horar\source\repos\indexOfLetters\maxSequenceOfEqualElements\obj\Debug\netcoreapp2.0\maxSequenceOfEqualElements.AssemblyInfoInputs.cache
+C:\Users\horar\source\repos\indexOfLetters\maxSequenceOfEqualElements\obj\Debug\netcoreapp2.0\maxSequenceOfEqualElements.AssemblyInfo.cs
+C:\Users\horar\source\repos\indexOfLetters\maxSequenceOfEqualElements\obj\Debug\netcoreapp2.0\maxSequenceOfEqualElements.dll
+C:\Users\horar\source\repos\indexOfLetters\maxSequenceOfEqualElements\obj\Debug\netcoreapp2.0\maxSequenceOfEqualElements.pdb
